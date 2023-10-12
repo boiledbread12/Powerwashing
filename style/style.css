@@ -67,10 +67,10 @@ body
     padding-bottom: 13em;
     position: relative;
     background: #B6B6B6;
-    margin-left: -163px;
-    margin-right: -20px;
+    margin-left: -132px;
+    margin-right: -62px;
     margin-bottom: -319px;
-    top: 33px;
+    top: 30px;
     margin-top: 39px;
 }
 
@@ -106,10 +106,13 @@ img
     margin-bottom: 8px;
     margin-left: -52px;
     margin-right: 1px;
-    top: 90px;
+    top: 81px;
     position: relative;
-    left: -44px;
+    left: -51px;
     padding-left: 160px;
+    width: 300;
+    height: 300;
+    padding-top: 11px;
 }
 
 h1, h3, h4, h5, h6 
@@ -384,9 +387,14 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 } 
 
 .sidebar
-{ float: right;
-  width: 190px;
-  padding: 0 15px 20px 15px;}
+{
+    float: right;
+    width: 190px;
+    padding-top: 0;
+    padding-right: 0px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
 
 .sidebar ul
 { width: 178px; 
@@ -543,4 +551,25 @@ table tr td
     min-width: 199px;
     left: -112px;
     top: 132px;
+}
+.flt-left {
+    float: left;
+    margin-right: -220px;
+    padding-right: 0px;
+    padding-top: 12px;
+    padding-left: 154px;
+    left: -234px;
+    top: 57px;
+   
+
+}
+.flt-left2 {
+    float: left;
+    margin-right: -220px;
+    top: 27px;
+    left: -233px;
+}
+.aboutus { 
+    font-size: 0%;
+    font-size: 113%;
 }
