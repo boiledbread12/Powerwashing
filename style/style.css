@@ -252,8 +252,11 @@ ol
 
 .socials {
     position: relative;
-    top: -72px;
-    left: 386px;
+    top: -116px;
+    left: 422px;
+    margin-top: -30px;
+    min-height: 162px;
+    min-width: 161px;
 }
 
 ol li
@@ -288,9 +291,26 @@ ol li
 }
 
 #logo #logo_text 
-{ position: absolute; 
-  top: 20px;
-  left: 0;}
+{
+    position: relative;
+    top: 3px;
+    left: 0;
+    padding-bottom: auto;
+    padding-top: auto;
+    border-bottom-right-radius: 0px;
+    border-spacing: 0px 0px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    margin-top: auto;
+    padding-right: auto;
+    margin-right: 642%;
+    margin-left: -29px;
+    border-width: 0%;
+    border-top-right-radius: 0px;
+    padding-left: auto;
+    bottom: -244px;
+}
 
 #logo h1, #logo h2
 { font: normal 300% 'century gothic', arial, sans-serif;
