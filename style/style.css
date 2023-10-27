@@ -252,11 +252,12 @@ ol
 
 .socials {
     position: relative;
-    top: -116px;
-    left: 422px;
+    top: -105px;
+    left: 349px;
     margin-top: -30px;
     min-height: 162px;
     min-width: 161px;
+    text-align: center;
 }
 
 ol li
@@ -286,8 +287,9 @@ ol li
     background-repeat: repeat-y;
     /* [disabled]background-color: #031F7F; */
     background-position: center;
-    top: 4px;
+    top: 6px;
     background-size: 823px 174px;
+    left: 9px;
 }
 
 #logo #logo_text 
