@@ -167,6 +167,7 @@ h2
     padding-right: 0;
     padding-bottom: 19px;
     margin-left: -63px;
+    text-align: center;
 }
 
 h4, h5, h6
@@ -595,4 +596,14 @@ table tr td
     font-size: 0%;
     font-size: 113%;
 	color: #000000;
+}
+.THUMBSUP {
+    padding-right: 0px;
+    padding-left: 249px;
+    padding-bottom: 0px;
+    margin-left: -45px;
+    margin-top: -130px;
+    margin-bottom: 86px;
+
+
 }
